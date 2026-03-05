@@ -1,0 +1,9 @@
+services:
+  rosey:
+    image: ghcr.io/blawggy/rosey:1.0
+    container_name: rosey
+    restart: unless-stopped
+    ports:
+      - "15300:3000"
+    volumes:
+      - ./data:/app/data
