@@ -1,0 +1,73 @@
+{
+  "siteTitle": "Rose Garden",
+  "siteDescription": "A collection of beautiful links",
+  "favicon": "/favicon.ico",
+  "heading": "Rose Garden",
+  "subheading": "Explore our curated collection",
+
+  "background": {
+    "petalCount": 25,
+    "petalColors": ["#c9364b", "#e84a60", "#8b1a2b", "#d4566a", "#a02040"],
+    "petalMinSize": 8,
+    "petalMaxSize": 22,
+    "fallSpeed": 0.3,
+    "swayAmount": 1.5,
+    "glowColor": "rgba(201, 54, 75, 0.08)",
+    "glowCount": 4
+  },
+
+  "cards": [
+    {
+      "title": "GitHub",
+      "description": "Where the world builds software. Explore open source projects, collaborate with millions of developers.",
+      "icon": "github",
+      "buttons": [
+        { "label": "Visit GitHub", "url": "https://github.com", "variant": "primary" },
+        { "label": "Explore Repos", "url": "https://github.com/explore", "variant": "secondary" }
+      ]
+    },
+    {
+      "title": "Vercel",
+      "description": "Develop. Preview. Ship. The platform for frontend developers, providing speed and reliability.",
+      "icon": "globe",
+      "buttons": [
+        { "label": "Visit Vercel", "url": "https://vercel.com", "variant": "primary" },
+        { "label": "Documentation", "url": "https://vercel.com/docs", "variant": "secondary" }
+      ]
+    },
+    {
+      "title": "Next.js",
+      "description": "The React Framework for the Web. Used by the world's largest companies to build performant apps.",
+      "icon": "code",
+      "buttons": [
+        { "label": "Get Started", "url": "https://nextjs.org", "variant": "primary" },
+        { "label": "Learn Next.js", "url": "https://nextjs.org/learn", "variant": "secondary" }
+      ]
+    },
+    {
+      "title": "Tailwind CSS",
+      "description": "A utility-first CSS framework packed with classes that can be composed to build any design.",
+      "icon": "palette",
+      "buttons": [
+        { "label": "Explore Tailwind", "url": "https://tailwindcss.com", "variant": "primary" }
+      ]
+    },
+    {
+      "title": "TypeScript",
+      "description": "Typed JavaScript at any scale. TypeScript extends JavaScript by adding types for safer code.",
+      "icon": "file-code",
+      "buttons": [
+        { "label": "Learn TypeScript", "url": "https://typescriptlang.org", "variant": "primary" },
+        { "label": "Playground", "url": "https://typescriptlang.org/play", "variant": "secondary" }
+      ]
+    },
+    {
+      "title": "Stack Overflow",
+      "description": "The largest community for developers to learn, share knowledge, and build their careers.",
+      "icon": "layers",
+      "buttons": [
+        { "label": "Browse Questions", "url": "https://stackoverflow.com", "variant": "primary" }
+      ]
+    }
+  ]
+}
