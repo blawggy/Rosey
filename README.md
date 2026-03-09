@@ -54,7 +54,7 @@ Docker compose up -d
 ```
 
 > [!NOTE]
-> **Tip:** Check the `data/` directory for all core modules and configuration options.
+> **Tip:** Check the `config/` directory for all core modules and configuration options.
 
 ---
 
