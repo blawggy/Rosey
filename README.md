@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝   ╚═╝   
 ```
 
-**A Spin on Honey**
+**A Highly Customizable Garden For Your Domain**
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%20v3-gold.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3.x-amber?logo=python&logoColor=white)](https://python.org)
@@ -19,7 +19,7 @@
 
 <br/>
 
-*Rosey takes what's sweet and makes it yours.*
+*Feel the essence of the Rosey rose petals across your domain.*
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## 🌹 What is Rosey?
 
-Rosey is a **highly configurable** take on [Honey](https://github.com/nicehash/Honey) — refined, extended, and made to fit *your* workflow. Whether you're using it as a drop-in replacement or building something new on top of it, Rosey gives you the flexibility to do it your way.
+Rosey is a Reactive homepage with a customizable interface with it being neatly and easily configurable via a single JSON file. 
 
 ---
 
@@ -43,18 +43,17 @@ cd Rosey
 ### Installation
 
 ```bash
-# Install dependencies (if applicable)
-pip install -r requirements.txt
+git clone https://github.com/blawggy/Rosey.git
+cd Rosey/rosey
 ```
 
 ### Basic Usage
-
-```bash
-# Run Rosey
-python rosey/main.py
+```docker
+Docker compose up -d
 ```
 
-> **Tip:** Check the `rosey/` directory for all core modules and configuration options.
+> [!NOTE]
+> **Tip:** Check the `data/` directory for all core modules and configuration options.
 
 ---
 
@@ -64,7 +63,9 @@ Rosey is built to be **highly configurable**. Tweak it to your needs:
 
 | Option | Description | Default |
 |--------|-------------|---------|
-| `...`  | Coming soon | `...`   |
+| site-config.json  | The Config file | |
+| favicon.ico | Your preferred title icon | | 
+
 
 Configuration lives alongside the source in the `rosey/` directory. Edit to taste.
 
