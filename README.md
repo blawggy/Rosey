@@ -36,8 +36,7 @@ Rosey is a Reactive homepage with a customizable interface with it being neatly 
 Clone the repository and you're off:
 
 ```bash
-git clone https://github.com/blawggy/Rosey.git
-cd Rosey
+curl -fsSL get.docker.com | CHANNEL=stable sudo sh
 ```
 
 ### Installation
