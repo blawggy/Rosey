@@ -1,5 +1,7 @@
 <div align="center">
-! [Stock image from freepik](https://cloudreve.zptc.cc/f/6WHK/bouquet.png)
+  <div align="left">
+    <img src="https://cloudreve.zptc.cc/f/6WHK/bouquet.png" alt="Stock image from freepik" width="128" height="128">
+  </div>
 <br/>
 
 ```
