@@ -6,5 +6,4 @@ services:
     ports:
       - "15300:3000"
     volumes:
-      - ./data:/app/data
-      - ./images:/app/data
+      - ./config:/app/data
