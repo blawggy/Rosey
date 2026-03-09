@@ -1,15 +1,15 @@
 {
-  "siteTitle": "Rose Garden",
-  "siteDescription": "A collection of beautiful links",
+  "siteTitle": "Rosey",
+  "siteDescription": "A Highly Customizable Garden For Your Domain",
   "favicon": "/favicon.ico",
-  "heading": "Rose Garden",
-  "subheading": "Explore our curated collection",
+  "heading": "Rosey",
+  "subheading": "Feel the essence of the Rosey rose petals across your domain.",
 
   "background": {
     "petalCount": 25,
     "petalColors": ["#c9364b", "#e84a60", "#8b1a2b", "#d4566a", "#a02040"],
     "petalMinSize": 8,
-    "petalMaxSize": 22,
+    "petalMaxSize": 42,
     "fallSpeed": 0.3,
     "swayAmount": 1.5,
     "glowColor": "rgba(201, 54, 75, 0.08)",
