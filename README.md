@@ -97,7 +97,7 @@ Please keep code clean and consistent with the existing style.
 
 ## 📄 License
 
-Rosey is licensed under the **GNU General Public License v3.0**.  
+![](https://img.shields.io/badge/Github-Rosey-ffb7c5?style=plastic&logo=github) is licensed under the **GNU General Public License v3.0**.  
 See [LICENSE](./LICENSE) for full details.
 
 ---
