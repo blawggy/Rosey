@@ -16,7 +16,7 @@
 **A Highly Customizable Garden For Your Domain**
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%20v3-gold.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Python](https://img.shields.io/badge/Python-3.x-amber?logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Node.js-amber?logo=node&logoColor=white)](https://python.org)
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/blawggy/Rosey)
 
 <br/>
